@@ -1,0 +1,101 @@
+transaction_id,month,region,product,category,units_sold,price_clp,stock_remaining
+1,Jun,Sur,Juice 1L,Beverages,120,1200,64
+2,Mar,Centro,Sugar 1kg,Dry Goods,201,720,63
+3,Apr,Sur,Eggs x12,Dairy,234,2200,23
+4,Dec,Sur,Butter 200g,Dairy,206,1800,59
+5,Nov,Metropolitana,Beef kg,Meat,70,6500,59
+6,Apr,Sur,Juice 1L,Beverages,57,1200,87
+7,Mar,Valparaíso,Flour 1kg,Dry Goods,156,780,50
+8,Oct,Sur,Butter 200g,Dairy,13,1800,53
+9,Mar,Metropolitana,Butter 200g,Dairy,44,1800,43
+10,Mar,Valparaíso,Yogurt,Dairy,201,1500,71
+11,Apr,Norte,Beef kg,Meat,58,6500,16
+12,Jul,Sur,Cola 2L,Beverages,26,1800,55
+13,Apr,Metropolitana,Bread,Bakery,181,950,61
+14,Sep,Norte,Rice 1kg,Dry Goods,229,1100,98
+15,Jan,Norte,Croissant,Bakery,167,800,9
+16,Aug,Centro,Bread,Bakery,230,950,54
+17,Jul,Valparaíso,Milk 1L,Dairy,55,1200,61
+18,Feb,Sur,Rice 1kg,Dry Goods,126,1100,6
+19,Aug,Metropolitana,Rice 1kg,Dry Goods,15,1100,69
+20,Jan,Centro,Tuna Can,Dry Goods,108,1400,7
+21,Nov,Valparaíso,Water 6pack,Beverages,133,2900,97
+22,Dec,Centro,Orange Juice,Beverages,242,1650,95
+23,Sep,Valparaíso,Eggs x12,Dairy,46,2200,48
+24,Sep,Valparaíso,Eggs x12,Dairy,33,2200,56
+25,Feb,Sur,Flour 1kg,Dry Goods,102,780,41
+26,Jul,Valparaíso,Rice 1kg,Dry Goods,55,1100,53
+27,Oct,Centro,Sugar 1kg,Dry Goods,190,720,17
+28,Mar,Valparaíso,Cola 2L,Beverages,104,1800,14
+29,Jul,Sur,Chicken kg,Meat,108,4500,31
+30,Dec,Sur,Flour 1kg,Dry Goods,197,780,20
+31,Oct,Centro,Juice 1L,Beverages,234,1200,18
+32,Sep,Norte,Cheese 500g,Dairy,125,3200,64
+33,Apr,Norte,Juice 1L,Beverages,200,1200,20
+34,Dec,Valparaíso,Olive Oil,Dry Goods,222,4800,93
+35,Jan,Metropolitana,Yogurt,Dairy,169,1500,59
+36,Feb,Valparaíso,Tomato Sauce,Dry Goods,224,850,56
+37,Jan,Centro,Olive Oil,Dry Goods,170,4800,91
+38,Dec,Centro,Cheese 500g,Dairy,76,3200,91
+39,May,Centro,Bread,Bakery,137,950,63
+40,May,Centro,Sugar 1kg,Dry Goods,27,720,24
+41,Nov,Centro,Eggs x12,Dairy,34,2200,10
+42,Jul,Sur,Juice 1L,Beverages,243,1200,13
+43,Sep,Norte,Rice 1kg,Dry Goods,232,1100,2
+44,Sep,Centro,Beef kg,Meat,63,6500,59
+45,Mar,Metropolitana,Eggs x12,Dairy,67,2200,2
+46,Mar,Metropolitana,Cola 2L,Beverages,76,1800,35
+47,Mar,Metropolitana,Tomato Sauce,Dry Goods,113,850,97
+48,Apr,Metropolitana,Tuna Can,Dry Goods,183,1400,49
+49,Aug,Sur,Yogurt,Dairy,33,1500,90
+50,Jun,Metropolitana,Olive Oil,Dry Goods,123,4800,2
+51,Aug,Centro,Beef kg,Meat,41,6500,17
+52,Jan,Valparaíso,Yogurt,Dairy,184,1500,62
+53,Aug,Metropolitana,Bread,Bakery,95,950,65
+54,Apr,Sur,Croissant,Bakery,160,800,64
+55,Nov,Sur,Water 6pack,Beverages,203,2900,70
+56,Jan,Metropolitana,Yogurt,Dairy,136,1500,23
+57,Aug,Valparaíso,Olive Oil,Dry Goods,164,4800,94
+58,Apr,Metropolitana,Rice 1kg,Dry Goods,243,1100,68
+59,Jun,Sur,Bread,Bakery,139,950,77
+60,Aug,Norte,Water 6pack,Beverages,227,2900,27
+61,Apr,Centro,Yogurt,Dairy,26,1500,17
+62,Mar,Sur,Tomato Sauce,Dry Goods,113,850,52
+63,Sep,Metropolitana,Orange Juice,Beverages,170,1650,87
+64,Mar,Centro,Eggs x12,Dairy,146,2200,58
+65,Sep,Metropolitana,Beef kg,Meat,52,6500,30
+66,Feb,Metropolitana,Tomato Sauce,Dry Goods,185,850,79
+67,Feb,Norte,Beef kg,Meat,48,6500,93
+68,Feb,Centro,Orange Juice,Beverages,230,1650,70
+69,Jun,Centro,Pasta 500g,Dry Goods,179,990,48
+70,Mar,Norte,Olive Oil,Dry Goods,35,4800,95
+71,Sep,Sur,Eggs x12,Dairy,108,2200,63
+72,Apr,Metropolitana,Pasta 500g,Dry Goods,59,990,70
+73,Jan,Valparaíso,Cheese 500g,Dairy,162,3200,77
+74,Apr,Metropolitana,Eggs x12,Dairy,161,2200,17
+75,Jan,Metropolitana,Pasta 500g,Dry Goods,22,990,91
+76,May,Sur,Milk 1L,Dairy,69,1200,91
+77,Apr,Metropolitana,Juice 1L,Beverages,144,1200,49
+78,Aug,Norte,Cheese 500g,Dairy,66,3200,86
+79,Aug,Norte,Milk 1L,Dairy,45,1200,40
+80,Jul,Centro,Rice 1kg,Dry Goods,182,1100,34
+81,Mar,Valparaíso,Beef kg,Meat,29,6500,95
+82,Jan,Metropolitana,Butter 200g,Dairy,74,1800,24
+83,Jan,Metropolitana,Flour 1kg,Dry Goods,17,780,11
+84,Dec,Sur,Tuna Can,Dry Goods,247,1400,70
+85,Nov,Norte,Beef kg,Meat,153,6500,35
+86,Mar,Valparaíso,Cola 2L,Beverages,151,1800,53
+87,Jun,Centro,Cola 2L,Beverages,213,1800,96
+88,Jul,Norte,Milk 1L,Dairy,124,1200,11
+89,Jun,Centro,Chicken kg,Meat,224,4500,20
+90,Jun,Sur,Water 6pack,Beverages,152,2900,59
+91,Jun,Sur,Juice 1L,Beverages,101,1200,97
+92,Mar,Metropolitana,Cheese 500g,Dairy,107,3200,2
+93,Jun,Valparaíso,Juice 1L,Beverages,75,1200,70
+94,Aug,Centro,Cheese 500g,Dairy,41,3200,5
+95,Nov,Norte,Beef kg,Meat,224,6500,17
+96,Nov,Sur,Rice 1kg,Dry Goods,200,1100,25
+97,Feb,Metropolitana,Bread,Bakery,95,950,81
+98,May,Metropolitana,Milk 1L,Dairy,60,1200,3
+99,Jan,Centro,Orange Juice,Beverages,162,1650,93
+100,Dec,Sur,Chicken kg,Meat,195,4500,33

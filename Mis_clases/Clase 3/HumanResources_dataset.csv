@@ -1,0 +1,206 @@
+employee_id,name,age,department,education,salary,years_exp,performance,city,left_company
+1053,Employee_52,39.0,Sales,High School,84582.8997956093,6.0,,New York,0
+1182,Employee_181,43.0,engineering,High School,58713.5524615075,22.0,Medium,Phoenix,0
+1006,Employee_5,44.0,Sales,,71423.57761946395,8.0,Medium,Chicago,0
+1019,Employee_18,42.0,SALES,Master,49472.798362085996,34.0,,Phoenix,0
+1189,Employee_188,50.0,SALES,,60194.27306931142,2.0,High,Phoenix,1
+1171,Employee_170,53.0,Sales,Bachelor,77832.01511478309,3.0,,New York,1
+1077,Employee_76,22.0,engineering,Bachelor,68906.13263761817,4.0,,Chicago,1
+1155,Employee_154,33.0,HR,,55528.42095970552,29.0,Low,New York,0
+1105,Employee_104,24.0,Engineering,,46379.18934644343,30.0,,Phoenix,1
+1034,Employee_33,25.0,SALES,,35098.238691655,3.0,Very High,,0
+1013,Employee_12,43.0,Finance,,60684.117598883924,4.0,Very High,Houston,0
+1130,Employee_129,23.0,Sales,,48371.52309498469,26.0,Medium,Houston,0
+1056,Employee_55,31.0,engineering,PhD,72113.33447408144,28.0,,Houston,0
+1067,Employee_66,45.0,Engineering,PhD,59975.46050033853,9.0,Medium,New York,1
+1046,Employee_45,38.0,Engineering,Master,82906.51889838715,16.0,,,0
+1170,Employee_169,47.0,SALES,High School,41117.36937671707,29.0,Medium,New York,1
+1131,Employee_130,27.0,Sales,High School,60356.272229966205,33.0,Low,Chicago,1
+1008,Employee_7,32.0,HR,Bachelor,23112.099568821774,14.0,Low,Houston,0
+1038,Employee_37,47.0,HR,Bachelor,53946.67564729634,7.0,Medium,New York,1
+1153,Employee_152,53.0,Finance,Bachelor,27349.779160917264,31.0,High,,0
+1081,Employee_80,38.0,HR,Master,84158.6769483495,1.0,,Chicago,0
+1112,Employee_111,36.0,SALES,High School,65294.39963308353,0.0,Very High,Chicago,0
+1132,Employee_131,49.0,Sales,Master,64734.53965021858,26.0,High,Houston,0
+1172,Employee_171,27.0,Finance,Master,59380.373541288405,0.0,Low,New York,1
+1180,Employee_179,55.0,SALES,High School,86746.69253062585,33.0,Medium,Chicago,0
+1139,Employee_138,54.0,Sales,,73002.73595013215,32.0,Medium,Houston,1
+1157,Employee_156,24.0,Sales,,83442.20349312166,18.0,Low,Chicago,0
+1114,Employee_113,47.0,SALES,PhD,52069.140217504435,25.0,Low,Houston,1
+1162,Employee_161,49.0,Sales,High School,76011.84258352127,29.0,Medium,Phoenix,1
+1090,Employee_89,29.0,engineering,High School,31741.747661491598,5.0,Low,New York,0
+1184,Employee_183,37.0,Finance,,69579.35474756466,31.0,High,,1
+1194,Employee_193,47.0,Finance,Master,78625.70939478517,32.0,Low,Chicago,1
+1126,Employee_125,53.0,Sales,Master,89601.91337403837,10.0,Low,,0
+1174,Employee_173,25.0,HR,Bachelor,73618.07920863642,28.0,Medium,Phoenix,1
+1093,Employee_92,54.0,HR,,78182.34649837653,25.0,Very High,,1
+1017,Employee_16,59.0,Sales,,72653.61034170516,33.0,Medium,,0
+1190,Employee_189,24.0,engineering,PhD,46864.518874991365,23.0,,Houston,0
+1137,Employee_136,49.0,Finance,Master,56206.21043839508,5.0,Very High,Phoenix,1
+1023,Employee_22,46.0,Engineering,,57850.7511192438,28.0,Medium,Chicago,1
+1075,Employee_74,30.0,Finance,,20868.179854734364,28.0,Medium,Houston,1
+1045,Employee_44,35.0,Finance,Bachelor,58380.22553470412,24.0,Medium,,0
+1005,Employee_4,40.0,Engineering,PhD,43436.67317179301,16.0,,Houston,1
+1072,Employee_71,22.0,Finance,Master,51460.10804176833,30.0,High,,1
+1135,Employee_134,51.0,Engineering,PhD,62881.35570948974,24.0,,New York,0
+1146,Employee_145,48.0,Sales,,68642.61899206652,16.0,Low,,0
+1123,Employee_122,50.0,Sales,High School,59375.609485696135,34.0,Low,,1
+1027,Employee_26,36.0,engineering,,66940.86470461678,29.0,,New York,0
+1084,Employee_83,56.0,Finance,,61746.16470181136,25.0,,Chicago,1
+1150,Employee_149,45.0,SALES,,46874.86998812886,27.0,Low,Phoenix,1
+1187,Employee_186,27.0,Finance,PhD,74812.39508551084,7.0,,Phoenix,0
+1009,Employee_8,45.0,SALES,Bachelor,60861.19421634556,23.0,,,0
+1091,Employee_90,33.0,HR,PhD,74529.42726941017,7.0,High,New York,0
+1164,Employee_163,58.0,engineering,Bachelor,55659.33079300963,18.0,,,1
+1062,Employee_61,35.0,Finance,High School,48313.796561281866,26.0,Low,Chicago,0
+1076,Employee_75,45.0,Finance,PhD,50173.72074263883,7.0,Very High,Phoenix,1
+1107,Employee_106,26.0,engineering,Master,48713.299495096966,28.0,Medium,New York,0
+1064,Employee_63,42.0,SALES,Master,49934.64133273957,3.0,Low,Chicago,0
+1199,Employee_198,,Sales,PhD,1.0,31.0,Medium,Chicago,1
+1144,Employee_143,27.0,engineering,PhD,56598.75859052661,20.0,High,,1
+1025,Employee_24,49.0,SALES,,55377.33070087819,10.0,Very High,Phoenix,1
+1031,Employee_30,42.0,HR,PhD,48026.47172952701,18.0,,Chicago,0
+1136,Employee_135,32.0,HR,PhD,83956.69083781216,6.0,Very High,Houston,1
+1041,Employee_40,49.0,Finance,PhD,62130.751378763525,32.0,Medium,Phoenix,1
+1061,Employee_60,29.0,Engineering,High School,50152.06572796774,32.0,Very High,,0
+1057,Employee_56,57.0,Engineering,PhD,73862.28574628303,32.0,High,Phoenix,1
+1102,Employee_101,56.0,Finance,High School,90482.13788938828,4.0,High,Houston,1
+1087,Employee_86,49.0,Engineering,Bachelor,72991.05774064198,19.0,Medium,Houston,0
+1020,Employee_19,54.0,SALES,PhD,45493.3341809855,34.0,Very High,New York,1
+1156,Employee_155,23.0,SALES,Master,92592.63443059959,22.0,,Houston,1
+1098,Employee_97,43.0,Finance,PhD,50966.15695676736,24.0,High,Houston,1
+1055,Employee_54,55.0,HR,Master,62496.443037047415,14.0,Medium,Phoenix,0
+1185,Employee_184,54.0,engineering,PhD,63237.90972283508,6.0,Very High,Phoenix,1
+1052,Employee_51,50.0,Sales,Bachelor,52734.364620460445,2.0,Medium,Chicago,0
+1140,Employee_139,22.0,Sales,,67065.55247127032,28.0,Very High,Houston,1
+1142,Employee_141,34.0,Sales,PhD,73527.95155526832,25.0,,,0
+1113,Employee_112,36.0,Engineering,,69241.59981029623,20.0,High,Phoenix,1
+1097,Employee_96,56.0,SALES,,42779.17640766388,17.0,,Houston,0
+1108,Employee_107,47.0,Engineering,High School,85106.22239087074,13.0,Very High,New York,0
+1147,Employee_146,30.0,Engineering,PhD,77843.99671927124,19.0,,Chicago,0
+1111,Employee_110,30.0,HR,Bachelor,61140.720598445776,22.0,High,Houston,0
+1179,Employee_178,26.0,SALES,,64289.70249282425,18.0,High,New York,0
+1015,Employee_14,45.0,HR,High School,55988.99043174931,10.0,Very High,,1
+1028,Employee_27,24.0,HR,High School,44387.247700801556,34.0,,New York,0
+1109,Employee_108,35.0,Finance,Master,60655.5400212641,21.0,Very High,,1
+1186,Employee_185,30.0,SALES,PhD,85634.9349478325,28.0,Very High,Phoenix,1
+1127,Employee_126,28.0,Finance,High School,54314.135307265184,1.0,Low,,1
+1047,Employee_46,57.0,HR,Bachelor,50763.212328484326,32.0,Low,,1
+1192,Employee_191,57.0,SALES,Bachelor,67152.42141486166,7.0,Medium,Phoenix,1
+1087,Employee_86,49.0,Engineering,Bachelor,72991.05774064198,19.0,Medium,Houston,0
+1163,Employee_162,44.0,Finance,Bachelor,70671.8139779224,15.0,Low,Chicago,0
+1063,Employee_62,44.0,engineering,,46918.44351894662,32.0,Medium,Houston,0
+1003,Employee_2,29.0,SALES,,68320.39191335443,0.0,Very High,Phoenix,0
+1060,Employee_59,36.0,SALES,PhD,50441.46701886184,28.0,Medium,Houston,0
+1124,Employee_123,57.0,HR,,46498.265128891304,24.0,Low,New York,1
+1125,Employee_124,34.0,Finance,Master,61837.582475092786,25.0,Low,Chicago,0
+1044,Employee_43,56.0,HR,Bachelor,42452.74451743486,32.0,Low,Chicago,0
+1011,Employee_10,45.0,Engineering,Bachelor,80382.24949999092,29.0,,Chicago,0
+1110,Employee_109,48.0,engineering,PhD,76105.23018148128,10.0,High,Houston,1
+1074,Employee_73,28.0,Finance,,80131.32756458873,14.0,High,New York,0
+1197,Employee_196,999.0,HR,,38996.76673479697,33.0,Low,Houston,1
+1183,Employee_182,32.0,SALES,High School,46354.60574777321,27.0,Low,,0
+1151,Employee_150,36.0,Engineering,,49461.73324319754,6.0,Low,,0
+1099,Employee_98,48.0,engineering,High School,32710.49325705106,32.0,High,Phoenix,1
+1004,Employee_3,42.0,Engineering,High School,70997.60047116528,8.0,,Chicago,0
+1094,Employee_93,44.0,Engineering,Bachelor,57839.2605258822,11.0,High,Chicago,1
+1119,Employee_118,51.0,Sales,High School,27812.148602250873,8.0,Low,Phoenix,1
+1161,Employee_160,23.0,Engineering,PhD,29886.479679558393,28.0,High,Chicago,1
+1200,Employee_199,,Sales,Bachelor,,23.0,Low,,0
+1051,Employee_50,25.0,Finance,PhD,63280.24638414211,5.0,Medium,,0
+1001,Employee_0,50.0,HR,,72779.16701347027,1.0,High,,1
+1095,Employee_94,45.0,Engineering,,61920.616028376906,25.0,Medium,Houston,0
+1117,Employee_116,53.0,Engineering,High School,60762.63853704234,14.0,High,Chicago,0
+1096,Employee_95,58.0,SALES,Master,52779.92476080412,12.0,,New York,0
+1065,Employee_64,37.0,HR,Master,65039.23114281241,21.0,,New York,1
+1145,Employee_144,29.0,SALES,Master,48433.7018924334,6.0,High,New York,0
+1042,Employee_41,28.0,SALES,Bachelor,75557.37697416937,22.0,High,Phoenix,1
+1070,Employee_69,50.0,HR,High School,58626.50909025244,32.0,Medium,Houston,0
+1050,Employee_49,27.0,Sales,,78487.71317604376,5.0,Very High,Houston,1
+1049,Employee_48,23.0,engineering,,63880.003680153255,13.0,High,Phoenix,1
+1086,Employee_85,26.0,SALES,Bachelor,85778.99061020529,4.0,Medium,Houston,0
+1023,Employee_22,46.0,Engineering,,57850.7511192438,28.0,Medium,Chicago,1
+1014,Employee_13,23.0,Sales,,65837.69364216809,13.0,,Phoenix,0
+1154,Employee_153,45.0,SALES,Bachelor,54134.489981542625,12.0,,Chicago,1
+1024,Employee_23,48.0,Finance,High School,50990.92978125623,7.0,High,New York,0
+1191,Employee_190,41.0,Sales,Master,57030.55546948027,22.0,High,New York,1
+1138,Employee_137,46.0,engineering,Bachelor,61911.51610002135,23.0,High,New York,1
+1021,Employee_20,33.0,Engineering,Bachelor,81551.3200882433,0.0,High,Phoenix,1
+1016,Employee_15,51.0,SALES,,58442.38323855001,8.0,Medium,New York,0
+1079,Employee_78,45.0,Finance,Master,63046.703219197596,3.0,,,1
+1101,Employee_100,22.0,engineering,,27376.762460203543,3.0,Low,New York,1
+1167,Employee_166,22.0,Sales,,28813.084155382552,13.0,Low,Chicago,1
+1012,Employee_11,24.0,Sales,High School,55704.802257511205,30.0,High,Houston,1
+1007,Employee_6,32.0,Engineering,High School,51761.12727688394,10.0,Medium,Chicago,1
+1069,Employee_68,46.0,HR,High School,79131.94872980431,9.0,,Chicago,1
+1085,Employee_84,54.0,Engineering,Bachelor,65402.53503203273,26.0,Very High,New York,0
+1122,Employee_121,36.0,Finance,PhD,42595.124620960414,25.0,,,0
+1158,Employee_157,58.0,Sales,Master,68334.60359450302,31.0,Medium,Chicago,0
+1188,Employee_187,37.0,HR,Master,71463.06582002863,0.0,Medium,Chicago,1
+1159,Employee_158,38.0,Finance,Master,91267.15845812345,29.0,Low,Houston,1
+1092,Employee_91,55.0,SALES,Bachelor,69685.99183084871,22.0,,Phoenix,1
+1177,Employee_176,59.0,Engineering,,72237.77430733635,9.0,Medium,Houston,0
+1012,Employee_11,24.0,Sales,High School,55704.802257511205,30.0,High,Houston,1
+1120,Employee_119,58.0,Engineering,High School,67694.11876187244,8.0,Medium,,0
+1103,Employee_102,58.0,HR,PhD,33538.09651049877,7.0,High,New York,1
+1036,Employee_35,35.0,Engineering,High School,37610.97953376461,24.0,Very High,New York,1
+1058,Employee_57,35.0,SALES,Bachelor,72192.84696357149,29.0,Medium,,1
+1066,Employee_65,39.0,Engineering,,67416.13930874743,1.0,Low,Chicago,1
+1002,Employee_1,36.0,SALES,Bachelor,71525.09181457506,19.0,Very High,Chicago,1
+1121,Employee_120,44.0,Sales,High School,41722.65538070122,9.0,Medium,Phoenix,1
+1165,Employee_164,53.0,Finance,PhD,38771.96220723727,17.0,Medium,,1
+1043,Employee_42,29.0,Finance,PhD,55353.85344776092,14.0,Low,Houston,0
+1106,Employee_105,22.0,engineering,High School,68415.49601206591,8.0,Low,Chicago,1
+1133,Employee_132,49.0,Engineering,PhD,59472.045923062746,16.0,High,,0
+1178,Employee_177,45.0,engineering,Master,68501.3389037824,9.0,Very High,Chicago,0
+1018,Employee_17,23.0,Engineering,,44005.17782640047,11.0,Low,,1
+1039,Employee_38,23.0,Engineering,Bachelor,85270.27446908431,13.0,High,New York,0
+1134,Employee_133,41.0,Engineering,High School,60848.38424383752,23.0,Medium,,1
+1054,Employee_53,47.0,Finance,PhD,63378.530292084055,7.0,,Phoenix,1
+1160,Employee_159,23.0,HR,Bachelor,80863.55244277912,28.0,Very High,,0
+1129,Employee_128,49.0,HR,PhD,62722.60466440965,17.0,High,Chicago,1
+1035,Employee_34,46.0,Finance,PhD,85916.21441151388,24.0,Medium,New York,0
+1029,Employee_28,58.0,Engineering,PhD,39713.241676350044,20.0,Low,Houston,0
+1115,Employee_114,34.0,engineering,High School,40795.63307647116,22.0,High,,1
+1152,Employee_151,53.0,Finance,Bachelor,42101.098265423614,0.0,Very High,Houston,1
+1032,Employee_31,30.0,HR,Bachelor,39932.32764287433,13.0,Very High,Phoenix,0
+1169,Employee_168,23.0,Engineering,Bachelor,50743.64387569687,27.0,,Houston,0
+1128,Employee_127,43.0,Sales,PhD,44106.31280675027,6.0,,Houston,1
+1181,Employee_180,27.0,SALES,PhD,78629.55897014785,32.0,High,Phoenix,1
+1033,Employee_32,39.0,HR,Bachelor,55149.40801495197,25.0,High,Chicago,0
+1168,Employee_167,40.0,Finance,,59677.8755643801,1.0,Medium,,1
+1143,Employee_142,24.0,Engineering,High School,46931.29678327606,27.0,Very High,Houston,1
+1196,Employee_195,-5.0,Engineering,,30825.910644438754,7.0,,Chicago,1
+1148,Employee_147,58.0,SALES,,63350.04238044533,19.0,Low,Phoenix,0
+1030,Employee_29,28.0,Engineering,,51623.694458508595,4.0,Medium,,0
+1100,Employee_99,56.0,Finance,,73719.08273391126,11.0,Very High,,0
+1083,Employee_82,56.0,engineering,Bachelor,46971.27094428451,30.0,Medium,Chicago,1
+1176,Employee_175,38.0,engineering,,66771.16797971247,31.0,,Houston,1
+1080,Employee_79,32.0,HR,Bachelor,60743.59093949107,11.0,Medium,Houston,1
+1116,Employee_115,53.0,engineering,,40475.95011387,0.0,,Chicago,1
+1149,Employee_148,54.0,engineering,High School,61128.98918893782,21.0,Medium,Houston,1
+1198,Employee_197,,SALES,Bachelor,500000.0,34.0,,Chicago,0
+1073,Employee_72,46.0,Finance,PhD,66205.69199928112,23.0,Low,New York,0
+1078,Employee_77,29.0,HR,,78192.22610524028,28.0,Low,New York,0
+1026,Employee_25,37.0,engineering,PhD,48938.558002848265,13.0,Very High,,0
+1166,Employee_165,54.0,Sales,High School,68931.01703565635,0.0,Medium,Phoenix,1
+1082,Employee_81,29.0,Sales,High School,79109.90085883229,26.0,Low,Houston,1
+1121,Employee_120,44.0,Sales,High School,41722.65538070122,9.0,Medium,Phoenix,1
+1175,Employee_174,32.0,SALES,,59868.14165544967,2.0,High,,0
+1195,Employee_194,24.0,HR,Master,91005.66002627069,27.0,Very High,New York,0
+1040,Employee_39,41.0,SALES,,34045.27034363733,31.0,Low,New York,1
+1059,Employee_58,52.0,Engineering,Master,39739.170705877405,26.0,,,0
+1141,Employee_140,48.0,HR,Master,54626.86199263831,21.0,High,New York,0
+1089,Employee_88,30.0,SALES,Master,63301.11493205432,9.0,High,,1
+1071,Employee_70,36.0,Finance,Bachelor,74056.08780472768,12.0,,,0
+1088,Employee_87,28.0,engineering,Bachelor,58446.358501475646,10.0,Very High,,0
+1037,Employee_36,30.0,SALES,,50305.507510488766,17.0,Low,,1
+1022,Employee_21,43.0,Sales,Master,49474.50034488255,21.0,Medium,New York,1
+1010,Employee_9,57.0,Engineering,High School,47338.384013868796,34.0,High,,0
+1104,Employee_103,35.0,SALES,Bachelor,82498.33013512797,27.0,Medium,Chicago,0
+1196,Employee_195,-5.0,Engineering,,30825.910644438754,7.0,,Chicago,1
+1068,Employee_67,47.0,SALES,Master,53609.51492153371,4.0,Very High,New York,0
+1193,Employee_192,40.0,Sales,Bachelor,34056.298604862815,2.0,Very High,New York,1
+1118,Employee_117,25.0,HR,Master,52670.3987191788,20.0,Medium,,1
+1048,Employee_47,25.0,Engineering,High School,81542.7520211665,1.0,Low,Houston,1
+1173,Employee_172,53.0,Finance,Bachelor,62609.494937543546,7.0,High,Chicago,1

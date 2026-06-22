@@ -1,0 +1,513 @@
+reservation_id,nights,room_type,room_rate,guests,lead_days,booking_channel,meal_plan,satisfaction,cancelled
+RES-0001,7,Suite,103.42,4,57.0,walk-in,,Very Dissatisfied,0
+RES-0002,4,SUITE,,2,25.0,Walk-in,,Neutral,0
+RES-0003,13,SUITE,84.28,2,225.0,ONLINE,None,Very Dissatisfied,0
+RES-0004,11,Twin,106.61,2,284.0,Online,None,Neutral,0
+RES-0005,8,Double,,4,,Travel Agency,None,Very Satisfied,0
+RES-0006,13,Single,125.14,2,98.0,Online,Bed & Breakfast,Very Satisfied,0
+RES-0007,5,Double,141.98,4,38.0,Walk-in,Bed & Breakfast,,0
+RES-0008,7,Suite,69.17,2,270.0,Corporate,,,0
+RES-0009,10,SUITE,215.56,3,284.0,Corporate,None,,0
+RES-0010,3,Double,193.74,1,156.0,ONLINE,,Satisfied,0
+RES-0011,7,Single,174.54,3,74.0,Corporate,Half Board,Satisfied,1
+RES-0012,11,Twin,153.15,1,287.0,ONLINE,Full Board,Dissatisfied,0
+RES-0013,11,Double,120.61,4,129.0,ONLINE,Bed & Breakfast,,0
+RES-0014,8,single,137.68,3,174.0,ONLINE,Full Board,Dissatisfied,0
+RES-0015,5,Twin,161.92,2,83.0,Travel Agency,Full Board,Dissatisfied,0
+RES-0016,4,Single,94.86,1,21.0,walk-in,Full Board,Satisfied,0
+RES-0017,8,Suite,102.22,1,26.0,ONLINE,Full Board,,0
+RES-0018,8,SUITE,53.23,3,194.0,ONLINE,Half Board,Satisfied,1
+RES-0019,3,Double,89.13,4,336.0,walk-in,None,,0
+RES-0020,6,Single,186.45,3,235.0,Online,,,1
+RES-0021,5,Twin,106.63,4,91.0,ONLINE,Full Board,Dissatisfied,1
+RES-0022,2,single,107.29,4,20.0,Travel Agency,,Very Dissatisfied,0
+RES-0023,0,Single,132.71,1,302.0,Corporate,Full Board,,0
+RES-0024,12,double,55.51,3,356.0,Corporate,None,,0
+RES-0025,14,single,157.82,3,83.0,Walk-in,Bed & Breakfast,Dissatisfied,0
+RES-0026,6,Twin,170.66,4,261.0,Walk-in,Bed & Breakfast,Very Dissatisfied,1
+RES-0027,2,Suite,135.09,3,146.0,Corporate,Half Board,,0
+RES-0028,12,SUITE,186.05,2,,Corporate,Bed & Breakfast,Satisfied,0
+RES-0029,5,Twin,66.93,2,57.0,Travel Agency,Full Board,Dissatisfied,1
+RES-0030,1,Suite,193.75,3,14.0,walk-in,Full Board,,0
+RES-0031,12,Double,90.77,3,161.0,Walk-in,,Satisfied,0
+RES-0032,10,Single,68.8,4,162.0,walk-in,Half Board,Satisfied,0
+RES-0033,6,double,110.5,2,319.0,Travel Agency,Full Board,Satisfied,0
+RES-0034,13,single,194.88,2,280.0,Corporate,Bed & Breakfast,,1
+RES-0035,12,single,119.22,1,279.0,ONLINE,None,Very Satisfied,0
+RES-0036,9,Single,82.7,4,11.0,walk-in,None,Dissatisfied,0
+RES-0037,1,double,68.2,1,273.0,Corporate,,Very Satisfied,0
+RES-0038,11,Single,115.8,2,270.0,Corporate,Bed & Breakfast,Very Satisfied,0
+RES-0039,11,Double,40.2,4,207.0,Online,Full Board,Very Satisfied,0
+RES-0040,10,Suite,67.99,3,26.0,walk-in,None,,0
+RES-0041,12,Twin,181.72,4,71.0,ONLINE,Bed & Breakfast,Very Dissatisfied,0
+RES-0042,12,single,172.93,3,59.0,walk-in,None,Satisfied,1
+RES-0043,14,Double,114.86,3,144.0,Corporate,Full Board,Satisfied,0
+RES-0044,14,Suite,101.37,4,92.0,ONLINE,None,,0
+RES-0045,14,Double,122.34,3,308.0,Travel Agency,,,0
+RES-0046,3,double,,1,7.0,Online,,Very Satisfied,1
+RES-0047,12,single,136.2,2,78.0,Corporate,None,Satisfied,0
+RES-0048,7,Twin,156.39,3,26.0,Walk-in,Bed & Breakfast,Very Satisfied,0
+RES-0049,4,Single,111.9,1,173.0,Walk-in,Bed & Breakfast,,1
+RES-0050,9,Single,122.44,3,49.0,Online,Bed & Breakfast,,0
+RES-0051,3,Suite,145.89,2,198.0,Travel Agency,None,Dissatisfied,0
+RES-0052,5,Twin,125.04,1,348.0,Corporate,Bed & Breakfast,Very Satisfied,0
+RES-0053,3,SUITE,44.1,2,180.0,walk-in,,Very Dissatisfied,0
+RES-0054,7,double,171.22,2,23.0,Online,,Dissatisfied,1
+RES-0055,5,Suite,95.39,1,315.0,Travel Agency,Full Board,Neutral,0
+RES-0056,9,SUITE,204.45,1,45.0,walk-in,Bed & Breakfast,Very Satisfied,0
+RES-0057,7,Double,147.47,1,14.0,Walk-in,Full Board,Very Satisfied,1
+RES-0058,2,double,122.84,4,152.0,Walk-in,Bed & Breakfast,Neutral,0
+RES-0059,4,Double,137.57,1,221.0,walk-in,None,Neutral,0
+RES-0060,9,Twin,115.66,1,,Online,,,0
+RES-0061,12,single,100.54,1,272.0,Walk-in,None,,0
+RES-0062,14,double,128.3,1,235.0,Corporate,None,Satisfied,0
+RES-0063,2,SUITE,155.4,3,339.0,ONLINE,Half Board,,0
+RES-0064,10,single,101.42,4,,walk-in,,Dissatisfied,0
+RES-0065,9,Single,95.11,2,8.0,walk-in,,Dissatisfied,0
+RES-0066,10,SUITE,105.78,1,165.0,Walk-in,Bed & Breakfast,Satisfied,1
+RES-0067,5,Suite,158.08,3,318.0,Online,,Neutral,0
+RES-0068,2,Single,178.1,3,213.0,Corporate,Bed & Breakfast,Very Dissatisfied,0
+RES-0069,4,Single,134.48,3,116.0,Online,None,Neutral,0
+RES-0070,12,Suite,-10.0,2,343.0,Travel Agency,Full Board,Very Satisfied,0
+RES-0071,12,double,94.81,1,71.0,Travel Agency,Full Board,,0
+RES-0072,7,Single,155.07,4,63.0,ONLINE,Half Board,Dissatisfied,0
+RES-0073,12,Twin,142.07,4,204.0,Walk-in,,Neutral,0
+RES-0074,13,SUITE,91.59,3,208.0,Walk-in,,Very Dissatisfied,1
+RES-0075,8,single,48.49,2,71.0,Walk-in,,Very Satisfied,0
+RES-0076,3,Single,,2,276.0,ONLINE,None,Satisfied,1
+RES-0077,14,SUITE,93.23,2,273.0,Travel Agency,,Satisfied,0
+RES-0078,1,Double,166.48,4,319.0,Online,Full Board,Very Dissatisfied,1
+RES-0079,4,SUITE,182.11,3,337.0,ONLINE,None,Very Satisfied,0
+RES-0080,2,single,102.42,1,,ONLINE,Bed & Breakfast,Dissatisfied,1
+RES-0081,8,SUITE,103.68,4,165.0,Online,,Neutral,0
+RES-0082,4,Suite,130.46,3,31.0,Walk-in,,Very Satisfied,0
+RES-0083,2,single,-10.0,3,10.0,Corporate,Bed & Breakfast,Satisfied,0
+RES-0084,14,double,157.24,1,300.0,Online,,Very Dissatisfied,0
+RES-0085,6,Double,99.07,1,216.0,Travel Agency,Bed & Breakfast,Very Dissatisfied,0
+RES-0086,0,Suite,157.97,1,288.0,walk-in,None,,0
+RES-0087,10,double,110.43,2,101.0,walk-in,Full Board,Very Dissatisfied,0
+RES-0088,4,SUITE,154.16,1,266.0,ONLINE,Bed & Breakfast,,0
+RES-0089,6,single,109.16,3,213.0,walk-in,Half Board,Very Satisfied,0
+RES-0090,13,Double,95.48,1,178.0,Corporate,Bed & Breakfast,Dissatisfied,0
+RES-0091,2,Suite,196.49,3,,Walk-in,,Neutral,1
+RES-0092,10,double,162.61,4,40.0,Travel Agency,None,Very Satisfied,0
+RES-0093,12,double,48.32,2,75.0,Corporate,None,Dissatisfied,1
+RES-0094,2,Double,102.13,4,45.0,Travel Agency,Bed & Breakfast,Very Satisfied,0
+RES-0095,10,Twin,168.2,4,,Travel Agency,Full Board,,1
+RES-0096,14,SUITE,72.13,3,79.0,Walk-in,Half Board,,1
+RES-0097,4,Double,150.83,4,309.0,ONLINE,None,Very Dissatisfied,0
+RES-0098,14,double,146.68,3,85.0,walk-in,,Dissatisfied,0
+RES-0099,8,Single,92.03,1,91.0,Walk-in,,Neutral,0
+RES-0100,14,Suite,119.65,1,147.0,Corporate,Full Board,Neutral,1
+RES-0101,7,Double,36.4,3,160.0,ONLINE,None,Dissatisfied,0
+RES-0102,12,Twin,,1,,Corporate,Bed & Breakfast,Very Dissatisfied,0
+RES-0103,9,double,107.64,2,241.0,ONLINE,,Satisfied,0
+RES-0104,14,SUITE,152.15,4,352.0,Corporate,Full Board,Very Satisfied,1
+RES-0105,8,double,-50.0,2,1.0,Walk-in,None,Very Dissatisfied,1
+RES-0106,5,SUITE,174.32,4,224.0,ONLINE,None,,1
+RES-0107,13,Double,102.67,1,288.0,ONLINE,,Dissatisfied,0
+RES-0108,2,SUITE,128.15,2,232.0,Travel Agency,None,Very Satisfied,0
+RES-0109,5,single,142.36,1,76.0,Travel Agency,None,Neutral,0
+RES-0110,8,single,154.9,4,,Online,,,0
+RES-0111,10,single,166.17,3,153.0,Corporate,Full Board,,0
+RES-0112,9,Twin,100.9,3,102.0,Travel Agency,None,Neutral,0
+RES-0113,12,Twin,93.43,2,193.0,Online,,,0
+RES-0114,12,Single,174.4,1,165.0,Travel Agency,Half Board,Very Satisfied,0
+RES-0115,12,Twin,38.52,1,358.0,Corporate,Full Board,Dissatisfied,1
+RES-0116,13,Double,182.8,2,89.0,ONLINE,Bed & Breakfast,Very Satisfied,0
+RES-0117,9,double,107.91,3,173.0,walk-in,Bed & Breakfast,Very Dissatisfied,1
+RES-0118,13,double,119.82,4,121.0,Corporate,Bed & Breakfast,Satisfied,0
+RES-0119,13,Single,92.71,2,142.0,Walk-in,,Very Dissatisfied,0
+RES-0120,1,Twin,118.07,4,105.0,Travel Agency,Bed & Breakfast,,0
+RES-0121,9,SUITE,170.85,3,304.0,Travel Agency,,Dissatisfied,0
+RES-0122,7,Single,150.83,1,359.0,ONLINE,None,,0
+RES-0123,9,SUITE,139.71,3,316.0,Walk-in,Half Board,Very Satisfied,0
+RES-0124,8,SUITE,123.55,2,122.0,ONLINE,Full Board,Very Satisfied,0
+RES-0125,1,Suite,,1,8.0,Walk-in,Full Board,,0
+RES-0126,12,double,86.23,2,261.0,walk-in,None,Neutral,0
+RES-0127,8,single,106.27,2,72.0,Travel Agency,Half Board,,1
+RES-0128,8,Twin,138.31,3,358.0,Travel Agency,Bed & Breakfast,,1
+RES-0129,11,SUITE,122.79,2,222.0,walk-in,Bed & Breakfast,Very Satisfied,0
+RES-0130,3,Suite,159.34,3,40.0,Online,,Dissatisfied,0
+RES-0131,1,double,138.95,1,203.0,ONLINE,,,1
+RES-0132,8,single,122.17,3,263.0,walk-in,Bed & Breakfast,Very Dissatisfied,1
+RES-0133,3,SUITE,211.03,1,327.0,ONLINE,Full Board,Very Dissatisfied,0
+RES-0134,3,SUITE,136.25,3,177.0,Corporate,Full Board,Satisfied,1
+RES-0135,1,Single,102.72,4,347.0,Travel Agency,,Very Satisfied,0
+RES-0136,11,Single,194.4,4,317.0,ONLINE,None,Dissatisfied,1
+RES-0137,5,double,168.02,2,83.0,Walk-in,Bed & Breakfast,Satisfied,1
+RES-0138,10,single,192.64,3,317.0,ONLINE,,Neutral,0
+RES-0139,7,SUITE,,3,110.0,Corporate,,,0
+RES-0140,10,double,159.05,1,250.0,Travel Agency,,,1
+RES-0141,9,double,61.89,2,6.0,walk-in,Bed & Breakfast,Dissatisfied,0
+RES-0142,12,Double,151.36,3,,Corporate,,,0
+RES-0143,7,Twin,113.69,2,207.0,Travel Agency,None,,1
+RES-0144,9,Single,65.8,4,313.0,ONLINE,None,Dissatisfied,0
+RES-0145,8,single,161.3,3,21.0,Online,Bed & Breakfast,,0
+RES-0146,12,SUITE,-10.0,3,2.0,Online,Half Board,,0
+RES-0147,0,double,,2,126.0,Walk-in,,Very Satisfied,0
+RES-0148,1,SUITE,134.5,3,296.0,Travel Agency,,Dissatisfied,0
+RES-0149,7,Double,142.85,2,187.0,Online,,Very Dissatisfied,0
+RES-0150,7,single,158.82,3,361.0,walk-in,Half Board,Dissatisfied,0
+RES-0151,14,double,149.68,1,13.0,Travel Agency,Full Board,Neutral,0
+RES-0152,8,SUITE,179.07,2,11.0,walk-in,Bed & Breakfast,,0
+RES-0153,5,Single,148.01,3,86.0,walk-in,Bed & Breakfast,Very Dissatisfied,0
+RES-0154,3,Twin,114.71,4,11.0,Online,,Very Satisfied,0
+RES-0155,12,Double,117.06,3,24.0,Travel Agency,Bed & Breakfast,Very Satisfied,0
+RES-0156,8,single,108.71,4,300.0,ONLINE,Bed & Breakfast,,0
+RES-0157,6,Double,131.82,4,242.0,Corporate,Bed & Breakfast,,0
+RES-0158,11,Single,76.11,1,121.0,Online,,Satisfied,0
+RES-0159,3,single,133.64,2,146.0,Online,Full Board,Very Dissatisfied,1
+RES-0160,1,Double,116.54,3,54.0,ONLINE,Full Board,Dissatisfied,0
+RES-0161,3,Suite,131.03,1,237.0,Travel Agency,Bed & Breakfast,Very Dissatisfied,0
+RES-0162,5,Single,131.15,3,355.0,Travel Agency,,Satisfied,0
+RES-0163,14,Single,21.91,4,172.0,walk-in,Full Board,,0
+RES-0164,3,Single,83.95,2,220.0,ONLINE,,Very Dissatisfied,0
+RES-0165,1,Suite,115.65,3,118.0,ONLINE,Full Board,Very Dissatisfied,0
+RES-0166,5,Suite,117.78,3,308.0,Travel Agency,,,0
+RES-0167,10,SUITE,,4,182.0,walk-in,,,0
+RES-0168,7,double,132.09,3,287.0,Online,Bed & Breakfast,,0
+RES-0169,14,Twin,180.65,3,306.0,Walk-in,None,Very Satisfied,0
+RES-0170,7,Double,132.5,4,299.0,Corporate,Full Board,Dissatisfied,0
+RES-0171,11,SUITE,107.48,1,81.0,Online,None,,0
+RES-0172,9,Double,56.04,4,210.0,Travel Agency,,Satisfied,0
+RES-0173,10,Twin,65.26,1,149.0,Corporate,,,0
+RES-0174,10,double,141.42,2,36.0,Walk-in,,Very Satisfied,0
+RES-0175,12,Suite,162.42,1,351.0,Walk-in,None,,0
+RES-0176,13,double,181.65,1,311.0,walk-in,,,0
+RES-0177,3,Suite,86.88,2,360.0,Corporate,Bed & Breakfast,Very Satisfied,0
+RES-0178,7,Twin,-50.0,1,58.0,walk-in,,Dissatisfied,0
+RES-0179,1,double,129.69,4,130.0,Online,Half Board,,0
+RES-0180,4,SUITE,201.9,1,201.0,ONLINE,None,Dissatisfied,0
+RES-0181,13,single,124.59,2,242.0,ONLINE,Half Board,Very Dissatisfied,1
+RES-0182,4,SUITE,182.05,4,34.0,ONLINE,,Neutral,0
+RES-0183,14,Double,126.8,2,92.0,Corporate,Bed & Breakfast,Very Satisfied,1
+RES-0184,5,SUITE,166.13,2,206.0,ONLINE,Full Board,Dissatisfied,0
+RES-0185,7,Twin,9000.0,3,352.0,Online,,Satisfied,0
+RES-0186,7,Single,126.64,3,331.0,walk-in,Bed & Breakfast,Dissatisfied,0
+RES-0187,13,Double,79.18,2,304.0,Corporate,None,Satisfied,0
+RES-0188,11,double,109.24,2,349.0,walk-in,Half Board,,0
+RES-0189,0,Double,179.56,2,212.0,Corporate,Half Board,Very Satisfied,1
+RES-0190,4,single,155.11,3,158.0,walk-in,Half Board,Dissatisfied,0
+RES-0191,13,Suite,102.65,3,23.0,Walk-in,None,Dissatisfied,1
+RES-0192,7,double,106.31,1,292.0,walk-in,,Very Satisfied,0
+RES-0193,11,Double,50.77,1,3.0,ONLINE,None,Dissatisfied,0
+RES-0194,3,double,177.77,2,219.0,Walk-in,Half Board,Satisfied,0
+RES-0195,6,double,155.44,4,363.0,walk-in,,Dissatisfied,0
+RES-0196,12,double,114.52,4,19.0,Corporate,Full Board,Neutral,0
+RES-0197,2,Suite,128.01,3,151.0,Corporate,None,,0
+RES-0198,10,Twin,33.17,3,49.0,Corporate,None,,0
+RES-0199,13,SUITE,100.53,3,176.0,Travel Agency,Bed & Breakfast,Satisfied,0
+RES-0200,14,double,173.38,2,95.0,Online,Bed & Breakfast,Neutral,0
+RES-0201,9,Single,159.26,4,104.0,Corporate,None,,1
+RES-0202,5,Twin,133.23,1,249.0,Walk-in,Half Board,Very Satisfied,0
+RES-0203,6,single,119.41,2,116.0,Corporate,,Satisfied,1
+RES-0204,12,Suite,151.86,1,353.0,Travel Agency,Bed & Breakfast,Very Dissatisfied,1
+RES-0205,12,Double,,1,227.0,ONLINE,Half Board,,1
+RES-0206,12,Suite,53.41,2,65.0,Walk-in,,Very Dissatisfied,0
+RES-0207,12,Double,119.75,1,334.0,Travel Agency,Bed & Breakfast,Very Satisfied,0
+RES-0208,4,Suite,136.12,4,261.0,ONLINE,Half Board,Very Satisfied,1
+RES-0209,14,Double,164.91,1,294.0,Walk-in,Half Board,Satisfied,0
+RES-0210,14,double,62.35,4,242.0,walk-in,Full Board,Dissatisfied,0
+RES-0211,11,SUITE,115.08,4,185.0,Online,Full Board,Very Satisfied,0
+RES-0212,10,Double,,4,245.0,Online,,,0
+RES-0213,7,Double,,3,,Travel Agency,Half Board,Dissatisfied,0
+RES-0214,12,Single,139.51,1,267.0,ONLINE,Half Board,Neutral,0
+RES-0215,9,Double,149.89,2,130.0,Online,Full Board,Very Dissatisfied,1
+RES-0216,7,Single,108.37,2,236.0,ONLINE,Bed & Breakfast,Dissatisfied,0
+RES-0217,14,single,202.2,1,17.0,ONLINE,,Very Dissatisfied,1
+RES-0218,1,double,107.23,3,39.0,Travel Agency,None,Dissatisfied,0
+RES-0219,1,Single,102.13,3,20.0,Travel Agency,Full Board,Neutral,0
+RES-0220,9,SUITE,100.97,4,224.0,Travel Agency,None,Very Satisfied,0
+RES-0221,11,Twin,9000.0,1,,Online,Full Board,Neutral,0
+RES-0222,14,double,97.64,1,,Travel Agency,,Very Satisfied,1
+RES-0223,9,Single,62.64,2,7.0,Online,,Very Satisfied,0
+RES-0224,4,double,112.34,1,99.0,Travel Agency,,Very Dissatisfied,0
+RES-0225,13,double,122.3,3,239.0,Corporate,Full Board,,0
+RES-0226,9,double,28.69,1,86.0,ONLINE,Half Board,Neutral,0
+RES-0227,3,single,115.92,2,297.0,Travel Agency,Bed & Breakfast,Dissatisfied,0
+RES-0228,7,SUITE,121.69,4,13.0,Walk-in,Bed & Breakfast,,0
+RES-0229,6,Suite,140.58,2,333.0,ONLINE,,,0
+RES-0230,8,Suite,168.19,2,1.0,ONLINE,Full Board,Very Satisfied,1
+RES-0231,11,Single,154.05,4,292.0,Travel Agency,Full Board,Very Dissatisfied,0
+RES-0232,9,double,95.19,2,324.0,walk-in,Bed & Breakfast,Satisfied,0
+RES-0233,14,Single,,2,40.0,Travel Agency,,,0
+RES-0234,5,single,143.18,1,317.0,ONLINE,Half Board,Dissatisfied,1
+RES-0235,1,single,98.11,1,315.0,Walk-in,,Very Dissatisfied,0
+RES-0236,3,Double,70.88,4,110.0,ONLINE,,Dissatisfied,0
+RES-0237,10,single,214.97,1,13.0,Walk-in,Bed & Breakfast,Dissatisfied,0
+RES-0238,12,Double,107.57,1,230.0,Online,Bed & Breakfast,Satisfied,1
+RES-0239,8,SUITE,94.94,2,83.0,Corporate,Bed & Breakfast,Dissatisfied,0
+RES-0240,11,Single,32.31,3,129.0,ONLINE,None,Satisfied,1
+RES-0241,6,Twin,154.06,1,230.0,Travel Agency,,Very Satisfied,0
+RES-0242,8,SUITE,80.48,3,325.0,Online,Full Board,Very Dissatisfied,0
+RES-0243,9,single,,1,144.0,Corporate,,Dissatisfied,1
+RES-0244,4,SUITE,158.74,1,344.0,Travel Agency,None,,0
+RES-0245,1,SUITE,81.11,4,27.0,walk-in,,Neutral,1
+RES-0246,14,SUITE,123.18,4,65.0,Travel Agency,,Dissatisfied,1
+RES-0247,1,single,180.95,4,162.0,Walk-in,Bed & Breakfast,,1
+RES-0248,10,Twin,21.73,3,228.0,Walk-in,,Very Satisfied,0
+RES-0249,4,double,87.58,2,260.0,walk-in,Half Board,Very Satisfied,1
+RES-0250,12,SUITE,83.82,1,163.0,Online,,Neutral,0
+RES-0251,14,Double,112.52,1,300.0,Corporate,None,Satisfied,1
+RES-0252,7,single,118.09,1,302.0,Travel Agency,Half Board,Dissatisfied,0
+RES-0253,2,SUITE,77.55,3,286.0,Walk-in,,,1
+RES-0254,3,Twin,93.83,4,9.0,Online,Full Board,Very Satisfied,0
+RES-0255,1,double,,2,,walk-in,None,Satisfied,0
+RES-0256,5,single,105.97,3,117.0,ONLINE,None,Very Satisfied,0
+RES-0257,1,Suite,128.73,4,269.0,Walk-in,Bed & Breakfast,Satisfied,1
+RES-0258,8,double,156.42,3,79.0,walk-in,Full Board,Neutral,0
+RES-0259,1,Double,162.21,2,92.0,Travel Agency,Half Board,Very Dissatisfied,0
+RES-0260,11,SUITE,146.15,4,,Corporate,Full Board,Neutral,1
+RES-0261,1,Twin,85.04,3,331.0,Walk-in,Bed & Breakfast,Neutral,0
+RES-0262,2,Suite,119.87,2,349.0,Walk-in,None,Very Dissatisfied,0
+RES-0263,2,Twin,214.97,1,360.0,Travel Agency,None,Very Dissatisfied,0
+RES-0264,12,Suite,160.58,2,,ONLINE,Bed & Breakfast,Dissatisfied,0
+RES-0265,6,single,102.38,1,132.0,Online,Half Board,Dissatisfied,0
+RES-0266,7,Suite,183.28,3,275.0,Corporate,None,Neutral,0
+RES-0267,5,Double,104.48,4,263.0,Walk-in,,Neutral,0
+RES-0268,1,Double,93.26,4,170.0,Corporate,,Very Satisfied,0
+RES-0269,1,Single,175.83,3,0.0,Walk-in,,Very Satisfied,0
+RES-0270,3,Double,67.61,4,312.0,Corporate,Bed & Breakfast,Dissatisfied,0
+RES-0271,14,double,43.45,4,63.0,walk-in,Bed & Breakfast,,0
+RES-0272,2,Suite,157.65,1,283.0,Walk-in,None,,1
+RES-0273,5,Double,121.11,3,120.0,Corporate,Full Board,Dissatisfied,0
+RES-0274,12,single,125.09,2,106.0,Online,,Very Satisfied,0
+RES-0275,10,Twin,,1,174.0,walk-in,,Very Satisfied,1
+RES-0276,6,Twin,110.46,3,203.0,walk-in,None,,1
+RES-0277,7,Single,101.68,1,,Online,Half Board,Satisfied,0
+RES-0278,4,Twin,94.96,2,304.0,Corporate,,Satisfied,0
+RES-0279,0,Suite,104.72,2,119.0,Travel Agency,Full Board,Very Satisfied,1
+RES-0280,11,Single,103.46,3,43.0,Online,,Satisfied,0
+RES-0281,8,Suite,86.86,2,311.0,Corporate,Full Board,Very Dissatisfied,1
+RES-0282,11,single,98.19,1,155.0,Online,Full Board,Dissatisfied,0
+RES-0283,1,Single,19.89,2,206.0,Online,Bed & Breakfast,Dissatisfied,1
+RES-0284,6,SUITE,147.39,1,107.0,Walk-in,Bed & Breakfast,Very Satisfied,0
+RES-0285,8,double,135.61,1,,Corporate,,Neutral,0
+RES-0286,5,double,116.6,2,333.0,Travel Agency,Half Board,,0
+RES-0287,4,Suite,129.49,3,129.0,Walk-in,None,,0
+RES-0288,2,Twin,130.94,4,292.0,Online,None,,0
+RES-0289,6,SUITE,91.04,2,19.0,ONLINE,Bed & Breakfast,,1
+RES-0290,0,Single,98.7,1,281.0,Online,None,Neutral,1
+RES-0291,11,SUITE,141.13,1,,Online,Bed & Breakfast,Satisfied,0
+RES-0292,1,SUITE,128.3,2,0.0,Corporate,,Very Dissatisfied,1
+RES-0293,9,Twin,201.73,3,118.0,Corporate,Half Board,Satisfied,1
+RES-0294,12,Single,184.78,3,34.0,Walk-in,,Very Dissatisfied,0
+RES-0295,11,single,157.32,1,197.0,Travel Agency,Full Board,,0
+RES-0296,6,Twin,89.53,1,244.0,Walk-in,Full Board,,0
+RES-0297,13,SUITE,97.42,3,58.0,walk-in,Full Board,,0
+RES-0298,3,SUITE,79.92,4,324.0,Online,,,0
+RES-0299,4,single,131.19,2,160.0,ONLINE,None,,1
+RES-0300,12,SUITE,10.36,1,178.0,Online,Half Board,,0
+RES-0301,11,SUITE,101.66,1,205.0,Online,Full Board,,1
+RES-0302,4,SUITE,107.73,3,11.0,Walk-in,Full Board,Satisfied,0
+RES-0303,3,double,59.03,2,275.0,ONLINE,,,0
+RES-0304,-1,Twin,151.91,3,180.0,ONLINE,Half Board,,1
+RES-0305,3,Double,74.43,2,241.0,ONLINE,Full Board,,1
+RES-0306,3,Twin,,2,215.0,Walk-in,,Very Dissatisfied,0
+RES-0307,4,single,231.35,2,250.0,Online,Full Board,,0
+RES-0308,7,SUITE,55.56,1,298.0,Walk-in,,Neutral,0
+RES-0309,4,Twin,114.06,4,,Corporate,,,0
+RES-0310,9,double,103.7,3,,Corporate,Half Board,,0
+RES-0311,1,single,95.92,4,305.0,Walk-in,,Very Dissatisfied,0
+RES-0312,8,Suite,150.41,3,284.0,ONLINE,Half Board,Dissatisfied,0
+RES-0313,7,Twin,12000.0,2,184.0,Online,,Very Dissatisfied,0
+RES-0314,2,Suite,150.87,1,38.0,Walk-in,,Neutral,0
+RES-0315,8,SUITE,91.07,4,222.0,Walk-in,Half Board,Dissatisfied,0
+RES-0316,1,double,217.35,1,183.0,Walk-in,None,Very Satisfied,0
+RES-0317,11,double,49.19,3,177.0,walk-in,,Very Satisfied,0
+RES-0318,12,Twin,8500.0,1,293.0,Corporate,,,1
+RES-0319,9,single,126.79,1,339.0,ONLINE,None,Very Dissatisfied,0
+RES-0320,9,single,123.58,4,150.0,Travel Agency,Half Board,Satisfied,1
+RES-0321,2,double,139.52,2,125.0,ONLINE,None,Neutral,0
+RES-0322,7,single,183.21,1,300.0,Travel Agency,Bed & Breakfast,Dissatisfied,0
+RES-0323,14,double,115.21,2,307.0,walk-in,Bed & Breakfast,,0
+RES-0324,10,Twin,124.55,3,335.0,Walk-in,,,0
+RES-0325,3,Double,96.22,1,,walk-in,,Very Satisfied,0
+RES-0326,7,double,143.53,4,7.0,walk-in,Full Board,Dissatisfied,1
+RES-0327,12,Suite,107.26,3,340.0,Online,None,Neutral,0
+RES-0328,10,single,107.24,3,128.0,Corporate,Bed & Breakfast,Dissatisfied,0
+RES-0329,9,double,141.74,4,263.0,Travel Agency,,Neutral,0
+RES-0330,4,double,161.4,1,156.0,Walk-in,None,Satisfied,0
+RES-0331,12,Twin,31.68,1,,Travel Agency,,,0
+RES-0332,1,single,-10.0,3,357.0,ONLINE,,,0
+RES-0333,2,Double,109.19,1,4.0,Travel Agency,Bed & Breakfast,,0
+RES-0334,1,Twin,157.9,2,85.0,ONLINE,Bed & Breakfast,Neutral,0
+RES-0335,14,Double,110.0,4,174.0,Corporate,,Very Dissatisfied,0
+RES-0336,12,Twin,172.04,2,289.0,ONLINE,Half Board,,0
+RES-0337,5,single,92.94,1,192.0,Travel Agency,,Satisfied,0
+RES-0338,5,Single,,3,310.0,Travel Agency,,Neutral,0
+RES-0339,11,single,,4,118.0,ONLINE,Full Board,,1
+RES-0340,7,single,86.26,1,217.0,walk-in,Full Board,,0
+RES-0341,9,Double,56.79,1,113.0,Corporate,Full Board,Satisfied,1
+RES-0342,9,Double,120.64,3,144.0,Online,,Satisfied,1
+RES-0343,3,single,110.43,3,25.0,Walk-in,Half Board,,0
+RES-0344,3,single,152.92,2,135.0,Travel Agency,,Dissatisfied,0
+RES-0345,3,single,155.7,4,302.0,Walk-in,Full Board,,1
+RES-0346,4,Double,123.82,4,,Online,Half Board,,0
+RES-0347,8,single,84.61,3,75.0,Walk-in,Bed & Breakfast,Very Dissatisfied,0
+RES-0348,6,single,,2,327.0,Online,,Neutral,0
+RES-0349,8,SUITE,126.61,4,344.0,ONLINE,None,Very Dissatisfied,0
+RES-0350,1,Single,142.76,3,,walk-in,,Satisfied,0
+RES-0351,8,Suite,85.01,1,288.0,Travel Agency,None,Very Satisfied,1
+RES-0352,4,Single,-50.0,4,,Online,Full Board,Neutral,0
+RES-0353,11,SUITE,140.38,2,146.0,Walk-in,None,Neutral,0
+RES-0354,1,Suite,169.89,2,286.0,Travel Agency,Full Board,,1
+RES-0355,8,Twin,158.64,2,141.0,walk-in,Bed & Breakfast,,0
+RES-0356,4,single,123.28,1,52.0,ONLINE,None,Satisfied,1
+RES-0357,6,SUITE,100.5,4,303.0,Travel Agency,,Very Dissatisfied,0
+RES-0358,8,Twin,136.15,4,68.0,Online,Full Board,Satisfied,0
+RES-0359,4,single,76.34,1,360.0,walk-in,,,1
+RES-0360,14,Double,87.32,4,89.0,Walk-in,Half Board,,0
+RES-0361,3,double,8500.0,1,219.0,walk-in,,,1
+RES-0362,14,SUITE,136.08,1,191.0,walk-in,None,Very Satisfied,1
+RES-0363,9,Double,-50.0,1,62.0,Corporate,,,1
+RES-0364,3,SUITE,153.17,2,72.0,walk-in,,Very Satisfied,0
+RES-0365,9,SUITE,171.48,4,160.0,walk-in,Bed & Breakfast,Neutral,1
+RES-0366,13,Double,102.21,1,168.0,Travel Agency,Full Board,Dissatisfied,0
+RES-0367,2,Suite,102.9,4,88.0,Walk-in,None,,0
+RES-0368,14,Single,97.89,2,175.0,Travel Agency,Half Board,,1
+RES-0369,2,single,158.55,1,268.0,Travel Agency,Bed & Breakfast,Very Dissatisfied,0
+RES-0370,2,SUITE,158.94,3,72.0,Online,,,0
+RES-0371,0,single,175.44,2,244.0,Travel Agency,Full Board,Dissatisfied,1
+RES-0372,3,double,160.34,3,76.0,Corporate,,Very Satisfied,0
+RES-0373,13,Double,54.71,4,,Corporate,,Very Dissatisfied,0
+RES-0374,9,single,131.24,4,323.0,Online,None,Satisfied,1
+RES-0375,4,Double,77.66,2,97.0,ONLINE,,Dissatisfied,0
+RES-0376,1,single,99.48,4,101.0,Walk-in,Bed & Breakfast,Very Dissatisfied,1
+RES-0377,4,Single,126.82,3,131.0,Walk-in,,,0
+RES-0378,1,Single,153.42,1,101.0,Travel Agency,None,Dissatisfied,0
+RES-0379,14,Single,84.37,1,,Travel Agency,Full Board,Satisfied,0
+RES-0380,5,Single,27.01,1,81.0,ONLINE,Full Board,Neutral,0
+RES-0381,4,Single,127.22,2,278.0,Travel Agency,,Very Dissatisfied,0
+RES-0382,0,Single,225.74,4,338.0,Walk-in,Half Board,Satisfied,1
+RES-0383,8,Double,111.89,3,364.0,walk-in,Full Board,Dissatisfied,0
+RES-0384,7,SUITE,121.88,4,330.0,Corporate,,Satisfied,0
+RES-0385,3,single,191.29,4,128.0,walk-in,None,Neutral,0
+RES-0386,1,Single,143.61,4,343.0,walk-in,,,0
+RES-0387,1,Double,128.67,1,309.0,Walk-in,Full Board,Very Dissatisfied,0
+RES-0388,12,Double,137.68,3,88.0,walk-in,None,,0
+RES-0389,11,Double,130.01,3,212.0,ONLINE,,Very Satisfied,0
+RES-0390,3,SUITE,74.41,4,142.0,Online,Bed & Breakfast,Very Dissatisfied,0
+RES-0391,6,single,66.34,1,64.0,Travel Agency,None,Neutral,0
+RES-0392,7,SUITE,195.47,1,75.0,Online,Bed & Breakfast,Dissatisfied,0
+RES-0393,6,Suite,127.36,3,198.0,Corporate,Half Board,,0
+RES-0394,14,Twin,124.0,1,142.0,Travel Agency,None,Very Dissatisfied,0
+RES-0395,14,Double,116.39,1,315.0,walk-in,Bed & Breakfast,Satisfied,1
+RES-0396,6,Suite,151.24,1,92.0,Corporate,Full Board,Dissatisfied,0
+RES-0397,6,double,-200.0,2,304.0,Travel Agency,Full Board,Very Satisfied,1
+RES-0398,13,Single,,4,223.0,ONLINE,,,0
+RES-0399,3,Twin,96.48,3,290.0,ONLINE,,,0
+RES-0400,6,Single,114.66,3,101.0,ONLINE,None,,1
+RES-0401,8,SUITE,162.84,2,266.0,ONLINE,None,Neutral,0
+RES-0402,11,Twin,96.69,4,354.0,walk-in,,Very Satisfied,1
+RES-0403,11,single,154.09,3,,Online,None,Very Satisfied,0
+RES-0404,2,Suite,27.17,1,329.0,Travel Agency,Full Board,Very Dissatisfied,0
+RES-0405,5,single,110.8,3,,walk-in,Bed & Breakfast,Very Satisfied,0
+RES-0406,14,SUITE,145.13,1,2.0,ONLINE,,,0
+RES-0407,1,Single,170.81,2,84.0,Online,Full Board,Dissatisfied,0
+RES-0408,12,Twin,87.26,1,281.0,Corporate,Bed & Breakfast,,0
+RES-0409,1,single,59.89,3,327.0,Corporate,Full Board,Very Dissatisfied,0
+RES-0410,5,single,109.57,3,303.0,Corporate,Half Board,,0
+RES-0411,12,Single,74.98,3,116.0,ONLINE,,Neutral,0
+RES-0412,13,Twin,,2,220.0,Corporate,Full Board,,0
+RES-0413,3,Suite,119.73,2,153.0,Walk-in,,Very Satisfied,1
+RES-0414,4,Single,67.23,4,152.0,Travel Agency,,,0
+RES-0415,3,single,152.18,3,11.0,Travel Agency,Half Board,,1
+RES-0416,1,Suite,113.71,1,132.0,ONLINE,None,,1
+RES-0417,1,Suite,163.22,2,303.0,Walk-in,,Very Satisfied,0
+RES-0418,12,Single,,3,292.0,walk-in,None,Satisfied,0
+RES-0419,12,single,79.31,3,,walk-in,,Very Dissatisfied,0
+RES-0420,14,SUITE,140.67,2,227.0,Corporate,Full Board,Dissatisfied,0
+RES-0421,13,single,88.04,4,270.0,Online,Bed & Breakfast,Very Dissatisfied,0
+RES-0422,14,Double,113.42,2,42.0,walk-in,,Dissatisfied,0
+RES-0423,5,Twin,-10.0,2,342.0,Online,,,0
+RES-0424,6,double,126.33,1,325.0,Travel Agency,Bed & Breakfast,Neutral,0
+RES-0425,3,SUITE,92.9,1,301.0,Online,Bed & Breakfast,Satisfied,0
+RES-0426,12,Suite,125.97,4,363.0,Travel Agency,Bed & Breakfast,Dissatisfied,0
+RES-0427,9,SUITE,88.7,3,,Walk-in,,Very Satisfied,0
+RES-0428,5,Twin,146.97,2,106.0,Walk-in,Full Board,Satisfied,1
+RES-0429,8,Suite,115.41,4,335.0,ONLINE,Full Board,Very Satisfied,0
+RES-0430,13,Twin,126.2,1,302.0,ONLINE,Full Board,Satisfied,0
+RES-0431,1,Suite,222.8,2,116.0,Corporate,,Satisfied,0
+RES-0432,14,SUITE,75.72,3,123.0,walk-in,,Very Dissatisfied,0
+RES-0433,0,Suite,175.54,1,280.0,Corporate,,Dissatisfied,0
+RES-0434,3,Suite,13.63,1,291.0,Travel Agency,Half Board,Dissatisfied,0
+RES-0435,12,Double,36.86,1,202.0,Corporate,,Satisfied,0
+RES-0436,1,single,70.37,4,50.0,Online,,Neutral,0
+RES-0437,4,single,-50.0,3,270.0,Travel Agency,Full Board,Neutral,0
+RES-0438,13,double,128.15,2,323.0,ONLINE,Half Board,,0
+RES-0439,5,double,-50.0,4,276.0,Walk-in,Half Board,Very Satisfied,0
+RES-0440,7,Double,109.81,4,,ONLINE,,Very Dissatisfied,1
+RES-0441,1,double,,4,274.0,walk-in,None,Satisfied,1
+RES-0442,3,Twin,141.11,1,289.0,Travel Agency,Half Board,Very Satisfied,0
+RES-0443,2,SUITE,153.33,3,333.0,Travel Agency,Bed & Breakfast,Very Satisfied,1
+RES-0444,9,Single,66.94,4,51.0,Online,Full Board,,0
+RES-0445,10,Twin,105.52,2,26.0,walk-in,Bed & Breakfast,Satisfied,0
+RES-0446,6,Single,117.22,3,156.0,Walk-in,Full Board,Very Dissatisfied,0
+RES-0447,10,Single,139.41,2,238.0,Travel Agency,Full Board,Very Satisfied,0
+RES-0448,3,Double,8500.0,3,,Travel Agency,Half Board,Very Dissatisfied,0
+RES-0449,8,Twin,116.43,2,290.0,Online,,,0
+RES-0450,14,Double,,1,,Corporate,Bed & Breakfast,,0
+RES-0451,8,Suite,91.82,4,143.0,Walk-in,,Neutral,1
+RES-0452,2,Single,90.87,2,105.0,ONLINE,Bed & Breakfast,Neutral,1
+RES-0453,6,SUITE,123.95,3,157.0,walk-in,None,Very Dissatisfied,0
+RES-0454,7,double,114.79,4,145.0,Travel Agency,Bed & Breakfast,Neutral,0
+RES-0455,2,SUITE,140.02,4,1.0,Travel Agency,,Dissatisfied,0
+RES-0456,11,double,77.87,3,,ONLINE,Bed & Breakfast,Satisfied,0
+RES-0457,10,Single,105.97,2,,Walk-in,,Neutral,0
+RES-0458,2,Single,110.83,1,89.0,Corporate,,,0
+RES-0459,10,Single,152.55,1,344.0,Travel Agency,,,0
+RES-0460,1,Double,82.38,2,349.0,Walk-in,None,Dissatisfied,1
+RES-0461,8,Twin,129.39,4,,ONLINE,Bed & Breakfast,,0
+RES-0462,1,double,130.11,4,350.0,Online,Bed & Breakfast,Very Dissatisfied,0
+RES-0463,9,Twin,185.86,4,107.0,Corporate,None,,0
+RES-0464,11,Double,79.72,4,73.0,walk-in,,,0
+RES-0465,6,Double,93.71,2,38.0,Travel Agency,Half Board,Dissatisfied,0
+RES-0466,7,single,82.51,4,158.0,Walk-in,,Satisfied,0
+RES-0467,13,SUITE,53.21,3,70.0,Online,Half Board,Dissatisfied,0
+RES-0468,10,SUITE,190.59,4,311.0,walk-in,None,Satisfied,1
+RES-0469,7,Suite,70.34,1,240.0,Walk-in,,,0
+RES-0470,10,Double,87.35,4,297.0,Walk-in,Full Board,Very Dissatisfied,0
+RES-0471,3,double,-10.0,2,35.0,walk-in,Full Board,Very Dissatisfied,0
+RES-0472,2,single,49.88,1,,Online,None,Very Satisfied,1
+RES-0473,9,single,150.25,2,262.0,ONLINE,,Neutral,0
+RES-0474,8,Twin,63.48,2,309.0,Online,,,1
+RES-0475,13,SUITE,169.87,1,171.0,Corporate,Half Board,Dissatisfied,1
+RES-0476,12,Double,33.2,2,172.0,Travel Agency,,,0
+RES-0477,10,Suite,49.86,2,361.0,walk-in,,Very Satisfied,1
+RES-0478,7,Double,98.2,4,46.0,ONLINE,Full Board,Neutral,1
+RES-0479,9,Twin,158.87,3,140.0,walk-in,Full Board,Dissatisfied,1
+RES-0480,4,Single,118.76,2,117.0,walk-in,Half Board,Satisfied,0
+RES-0481,13,Double,106.57,2,276.0,Online,Bed & Breakfast,Neutral,0
+RES-0482,4,Twin,-200.0,2,213.0,Travel Agency,,Very Dissatisfied,0
+RES-0483,1,Single,206.21,4,219.0,Corporate,Half Board,Very Satisfied,0
+RES-0484,8,Single,146.89,3,25.0,Walk-in,None,Neutral,0
+RES-0485,14,Suite,95.09,1,8.0,Walk-in,None,Neutral,0
+RES-0486,14,double,103.27,4,270.0,walk-in,Half Board,Very Dissatisfied,1
+RES-0487,12,SUITE,68.46,4,9.0,Travel Agency,Half Board,Dissatisfied,1
+RES-0488,3,Double,124.03,3,120.0,ONLINE,Half Board,Satisfied,0
+RES-0489,7,Single,8500.0,3,124.0,Online,,Very Dissatisfied,1
+RES-0490,12,Double,142.07,4,169.0,Travel Agency,None,Satisfied,1
+RES-0491,2,double,200.22,1,71.0,Travel Agency,Half Board,Dissatisfied,0
+RES-0492,2,SUITE,148.7,4,151.0,Online,Full Board,Neutral,0
+RES-0493,7,double,101.23,3,207.0,walk-in,Full Board,Satisfied,0
+RES-0494,6,SUITE,141.08,1,48.0,Travel Agency,,Very Satisfied,0
+RES-0495,3,single,184.82,3,,Walk-in,,,0
+RES-0496,9,SUITE,182.82,1,346.0,Online,Bed & Breakfast,Very Dissatisfied,0
+RES-0497,10,Suite,79.85,2,292.0,ONLINE,Bed & Breakfast,Dissatisfied,0
+RES-0498,14,double,140.41,3,67.0,Corporate,,Very Dissatisfied,0
+RES-0499,13,Single,113.68,3,49.0,walk-in,,Very Dissatisfied,1
+RES-0500,6,single,152.26,4,151.0,Online,,,0
+RES-0305,3,Double,74.43,2,241.0,ONLINE,Full Board,,1
+RES-0341,9,Double,56.79,1,113.0,Corporate,Full Board,Satisfied,1
+RES-0048,7,Twin,156.39,3,26.0,Walk-in,Bed & Breakfast,Very Satisfied,0
+RES-0068,2,Single,178.1,3,213.0,Corporate,Bed & Breakfast,Very Dissatisfied,0
+RES-0480,4,Single,118.76,2,117.0,walk-in,Half Board,Satisfied,0
+RES-0486,14,double,103.27,4,270.0,walk-in,Half Board,Very Dissatisfied,1
+RES-0311,1,single,95.92,4,305.0,Walk-in,,Very Dissatisfied,0
+RES-0032,10,Single,68.8,4,162.0,walk-in,Half Board,Satisfied,0
+RES-0250,12,SUITE,83.82,1,163.0,Online,,Neutral,0
+RES-0091,2,Suite,196.49,3,,Walk-in,,Neutral,1
+RES-0323,14,double,115.21,2,307.0,walk-in,Bed & Breakfast,,0
+RES-0169,14,Twin,180.65,3,306.0,Walk-in,None,Very Satisfied,0
