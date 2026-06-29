@@ -4,3 +4,4 @@ Exam filter=lfs diff=lfs merge=lfs -text
 /Final filter=lfs diff=lfs merge=lfs -text
 logifast_data.csv filter=lfs diff=lfs merge=lfs -text
 /Final_Exam filter=lfs diff=lfs merge=lfs -text
+/Final_Exam filter=lfs diff=lfs merge=lfs -text
